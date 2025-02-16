@@ -58,6 +58,7 @@
 - 作者：Cui Hua
 - 邮箱：refinereader@cuihuaer.com
 - GitHub：[wzfukui/refinereader](https://github.com/wzfukui/refinereader)
+- 网站：[https://refinereader.cuihuaer.com](https://refinereader.cuihuaer.com)
 
 ## 📄 许可证
 
